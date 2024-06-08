@@ -70,7 +70,7 @@ Puma jersey Rm 200 until Rm 500
 
 Ordering process:
 Specify product
-For each product, specify which brand
+For each product, specify which brand and type
 After that we will hold that item untill you come to pick up
 
 Programs:
