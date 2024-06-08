@@ -56,10 +56,17 @@ Stopwatch Rm 5
 Training bags Rm 30 until RM 70
 
 Brands:
-Adidas
-Nike
-Diadora
-Puma
+Adidas soccer cleats Rm 100 until Rm 999
+Adidas accessories Rm 5 untill Rm 70
+Adidas jersey Rm 200 until Rm 500
+Nike soccer cleats Rm 150 until Rm 600
+Nike accessories Rm 5 untill Rm 70
+Nike jersey Rm 200 until Rm 500
+Diadora soccer cleats Rm 100 until Rm 300
+Diadora accessories Rm 5 untill Rm 50
+Puma soccer cleats Rm 200 until Rm 700
+Puma accessories Rm 5 untill Rm 70
+Puma jersey Rm 200 until Rm 500
 
 Ordering process:
 Specify product
@@ -74,7 +81,7 @@ Promotions:
 25% off all Diadora products
 
 Tax:
-10% Fanum tax
+10% Goverment tax
 
 Others:
 Some cleats may use animal skins
