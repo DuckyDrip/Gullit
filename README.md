@@ -1,7 +1,7 @@
 Shop information
 
 Owner:
-Mr. MIQDAD USAIMIN (a self-proclaimed football legend, boasts an impressive array of accomplishments in his backyard.)
+Mr. MIQDAD USAIMIN (a self-proclaimed football legend, boasts an impressive array of accomplishments in his imagination.)
 
 Time open:
 Everyday from 9am to 11pm (Except weekends)
