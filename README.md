@@ -1,7 +1,7 @@
 Shop information
 
 Owner:
-Mr. MIQDAD USAIMIN (a football legend, boasts an impressive array of accomplishments, including 7 Ballon d’Or awards, 5 UEFA Champions League Trophy, 3 Best FIFA's Men's Player trophy, 13 times Footballer Of The Year trophy and a remarkable tally of international goals for his national team.)
+Mr. MIQDAD USAIMIN (a self-proclaimed football legend, boasts an impressive array of accomplishments in his backyard.)
 
 Time open:
 Everyday from 9am to 11pm (Except weekends)
