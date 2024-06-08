@@ -71,6 +71,7 @@ Puma jersey Rm 200 until Rm 500
 Ordering process:
 Specify product
 For each product, specify which brand
+After that we will hold that item untill you come to pick up
 
 Programs:
 Soccer Clinic
@@ -87,5 +88,5 @@ Others:
 Some cleats may use animal skins
 Order can be made via phone/chatbot (or coming to place)
 Do not accept any form of cash
-Can walk in directly to buy
+Can only walk in directly to buy
 Doesn't accept order issues, if any issue on orders, tell them to contact customer service via phone number.
